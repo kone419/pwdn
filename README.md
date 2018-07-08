@@ -1,5 +1,5 @@
-# pwdn
-#pwdn
+# PowerDNS Docker Container
+
 [![Image Size](https://images.microbadger.com/badges/image/psitrax/powerdns.svg)](https://github.com/kone419/pwdn.git)
 [![Docker Stars](https://img.shields.io/docker/stars/psitrax/powerdns.svg)](https://hub.docker.com/r/psitrax/powerdns/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/psitrax/powerdns.svg)](https://hub.docker.com/r/psitrax/powerdns/)
@@ -69,5 +69,4 @@ See `docker run --rm psitrax/powerdns --help`
 ### Credits
 
 * Mathias Kaufmann <me@stei.gr>: Reduced image size
-
 
